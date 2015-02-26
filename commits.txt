@@ -1,0 +1,47 @@
+commit 0a35e37769bebb7f6b711aaab15920f6ecbd2226
+Author: Alejandro Sobrevilla <hunabix@gmail.com>
+Date:   Sun Feb 1 20:35:46 2015 -0600
+
+    cambio de datos en el portafolio
+
+commit 293a76765a66310f19081e91a071e3f66e99ed51
+Author: Alejandro Sobrevilla <hunabix@gmail.com>
+Date:   Sun Feb 1 20:09:32 2015 -0600
+
+    Cambié el titulo por uno más adecuado
+
+commit 89f35b89bfe66b74460a3008b5a98a1355e0a01c
+Author: Alejandro Sobrevilla <hunabix@gmail.com>
+Date:   Sun Feb 1 17:20:48 2015 -0600
+
+    Borré dos txt que estaban de más
+
+commit 3fa7bc7751c23edc3cae562757b9921f4ea220da
+Author: Alejandro Sobrevilla <hunabix@gmail.com>
+Date:   Sun Feb 1 17:12:22 2015 -0600
+
+    Agregué links de mi portafolio
+
+commit 4e661604da36aceb7b35798d93eb47680d61a6a2
+Author: Alejandro Sobrevilla <hunabix@gmail.com>
+Date:   Sun Feb 1 17:10:28 2015 -0600
+
+    Agregué mi descripción y redes sociales
+
+commit cd31a50828b96c74625162d4c37130d264ede5cf
+Author: Alejandro Sobrevilla <hunabix@gmail.com>
+Date:   Sun Feb 1 16:48:37 2015 -0600
+
+    Escribí mi perfil web
+
+commit 8f56168f8f69b6efe6d50e2b4540ed8f6dc4f11f
+Author: Alejandro Sobrevilla <hunabix@gmail.com>
+Date:   Sun Feb 1 16:44:36 2015 -0600
+
+    Subí foto de perfil y mi nombre
+
+commit 399e93ea5c18062854beb7f68a6519f1dc618070
+Author: Alejandro Sobrevilla <hunabix@gmail.com>
+Date:   Sun Feb 1 16:17:47 2015 -0600
+
+    Estos son los archivos base de éste proyecto
